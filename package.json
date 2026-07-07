@@ -1,15 +1,6 @@
 {
   "name": "shanghai-crm",
   "version": "1.0.0",
-  "description": "上海片区经销商CRM系统 - 前后端完整版",
-  "main": "server/server.js",
-  "scripts": {
-    "start": "node server/server.js",
-    "import": "node server/import-data.js",
-    "dev": "node server/server.js"
-  },
-  "dependencies": {
-    "cors": "^2.8.6",
-    "express": "^4.22.2"
-  }
+  "description": "Shanghai CRM System",
+  "private": true
 }
